@@ -44,3 +44,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 + *Programming Languages:* Lorem ipsum dolor sit amet
 + *Databases:* Lorem ipsum dolor sit amet
 + *Tools:* Lorem ipsum dolor sit amet
+
+## Languages
++ *Language1:* bilingual proficiency.
++ *Language2:* professional working proficiency.
+
+## Hobbies
++ Hobby1
++ Hobby2
++ Hobby3
