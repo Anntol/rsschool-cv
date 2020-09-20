@@ -1,0 +1,17 @@
+#content {
+  max-width: 1024px;
+  margin: auto;
+}
+#mainArea {
+  float:right;
+  width: 70%;
+}
+#sidebar {
+  float: left;
+  width: 30%;
+  padding-top: 10%;
+}
+.dates {
+  font-weight: 600;
+  font-style: oblique;
+}
